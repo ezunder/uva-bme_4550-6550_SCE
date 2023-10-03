@@ -3,6 +3,8 @@
 
 library(Seurat)
 
+# Location of data files
+setwd("G:\\My Drive/Working/ETX/")
 
 
 
